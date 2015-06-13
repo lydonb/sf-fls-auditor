@@ -1,7 +1,7 @@
 {
   "name": "sf-fls-auditor",
-  "version": "0.0.0",
-  "author": "",
+  "version": "0.0.1",
+  "author": "Lydon Bergin",
 
   "main": "app/build/index.js",
 
@@ -12,7 +12,9 @@
     "gulp-tsc": "^0.9.0",
     "gulp-shell": "^0.2.5",
     "run-sequence":"^0.3.6",
-    "mocha" : "*"
+    "mocha" : "*",
+    "node-menu": "*",
+    "mavensmate": "*"
   },
 
   "scripts" : {
